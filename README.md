@@ -1,4 +1,5 @@
 # pythonTest
+https://colab.research.google.com/github/ai-academy318/aiacademy/blob/master/AI_Academy_Colab.ipynb
 ## 基礎問題
 1. 変数
 xという変数に2を代入し，それを3倍した数を出力してください．
